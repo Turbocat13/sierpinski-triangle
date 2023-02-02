@@ -1,0 +1,15 @@
+D:\!Users\ligei\Desktop\02_Feb\bin\Debug\net6.0\02_Feb.exe
+D:\!Users\ligei\Desktop\02_Feb\bin\Debug\net6.0\02_Feb.deps.json
+D:\!Users\ligei\Desktop\02_Feb\bin\Debug\net6.0\02_Feb.runtimeconfig.json
+D:\!Users\ligei\Desktop\02_Feb\bin\Debug\net6.0\02_Feb.dll
+D:\!Users\ligei\Desktop\02_Feb\bin\Debug\net6.0\02_Feb.pdb
+D:\!Users\ligei\Desktop\02_Feb\obj\Debug\net6.0\02_Feb.csproj.AssemblyReference.cache
+D:\!Users\ligei\Desktop\02_Feb\obj\Debug\net6.0\02_Feb.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Users\ligei\Desktop\02_Feb\obj\Debug\net6.0\02_Feb.AssemblyInfoInputs.cache
+D:\!Users\ligei\Desktop\02_Feb\obj\Debug\net6.0\02_Feb.AssemblyInfo.cs
+D:\!Users\ligei\Desktop\02_Feb\obj\Debug\net6.0\02_Feb.csproj.CoreCompileInputs.cache
+D:\!Users\ligei\Desktop\02_Feb\obj\Debug\net6.0\02_Feb.dll
+D:\!Users\ligei\Desktop\02_Feb\obj\Debug\net6.0\refint\02_Feb.dll
+D:\!Users\ligei\Desktop\02_Feb\obj\Debug\net6.0\02_Feb.pdb
+D:\!Users\ligei\Desktop\02_Feb\obj\Debug\net6.0\02_Feb.genruntimeconfig.cache
+D:\!Users\ligei\Desktop\02_Feb\obj\Debug\net6.0\ref\02_Feb.dll
